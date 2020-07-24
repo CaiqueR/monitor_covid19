@@ -2,7 +2,11 @@
 
 ![](https://i.ibb.co/YcQcTcz/download.png)
 
-## Execução
+## 💻 Sobre o projeto
+
+Monitor COVID19 - é um projeto criado para disciplina de Laboratório de Desenvolvimento de Aplicações Móveis e Distribuídas com intuíto de dar uma pequena introdução do DotNet Framework
+
+## 🚀 Execução
 
 ```dotnet
 dotnet restore
@@ -12,7 +16,7 @@ dotnet restore
 dotnet watch run
 ```
 
-## Contribuidores
+## 🧑‍🏫 Contribuidores
 
 - Caique Ribeiro de Oliveira
 - Lucas Branco Laborne Tavares
